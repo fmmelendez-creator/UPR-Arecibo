@@ -1,0 +1,44 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_D0910CF6_FADA_0847_41EA_B09C93E8DA96.label = colec. esp. anaqueles
+panorama_D092B51B_FAD9_F9CD_41E8_6D167C00BCE7.label = colecciones esp. vestíbulo
+panorama_D0937DF5_FAD6_0845_41C6_0ED6A28BEFBF.label = entr. colecciones y col. espec
+panorama_D092F61E_FAD6_1BC7_41E2_EA7EE9C27BB0.label = entrada Learning
+panorama_D0935EB7_FAD6_08C5_41C2_004F0834AD69.label = entrada principal
+panorama_D408AC30_FADA_0FDB_41E3_DA1AE1482F2A.label = entrada puente
+panorama_D0937A98_FADA_08CB_41C7_9629ABF0DF8D.label = escaleras
+panorama_D09326EC_FAD6_384B_41DD_05CADD89797E.label = learning área
+panorama_D09308B5_FAD6_08C5_41C5_E963429A92A3.label = mesas y circulación
+panorama_D0936FB5_FAD6_08C5_41EF_3E2E251F0265.label = mesas y circulación 2
+panorama_D09022BC_FADA_18CB_41E2_D6847A9FC232.label = referencia 1
+panorama_D0907ADE_FADA_0847_41E1_FAE95CC56776.label = referencia 2
+panorama_D0916305_FADA_79C5_41EE_6A6E7ABD6396.label = sala conf. proyec. exhi
+panorama_D0913B06_FADA_09C7_41A5_C88B80913F3E.label = sala conferencia
+panorama_D093D185_FAD6_78C5_41E5_F164549B4B14.label = sala de cine
+panorama_D0911316_FADA_19C7_41D1_1437F3E97109.label = sala de proyecciones
+panorama_D0916B3C_FADA_09CB_41A1_ABD6B40F7606.label = sala estudio silencioso 1
+panorama_D091735D_FADA_3845_41EC_F684C3D3A60F.label = sala estudio silencioso 2
+panorama_D0912B91_FADA_08DD_41DA_DF6873FF1C4E.label = sala exhibiciones
+panorama_D09163A3_FADA_18FD_41E9_2235E3A769DB.label = sala instrucción bibliotecaria
+
+## Skin
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.jpg
+
+### Label
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Arecibo
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = UPR Arecibo
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = UPRA
